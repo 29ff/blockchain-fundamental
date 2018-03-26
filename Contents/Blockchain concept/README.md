@@ -34,3 +34,8 @@
   <li>Blockchain được truy cập một cách tự nhiên. Bất cứ ở đâu có internet, bạn cũng có thể truy cập được blockchain</li>
   <li>Blockchain có thể kiểm chứng được. Bất cứ ai tham gia vào blockchain đều có thể xem lại tất cả các giao dịch từ khi bắt đầu. Điều này thì cho phép mọi người có thể kiểm tra được mọi thứ</li>
 </ul>
+
+<h2>How does it work?</h2>
+<p>Vậy blockchain làm việc như thế nào? Nó bắt đầu từ việc một người tạo ra một hoặc nhiều giao dịch. Một giao dịch thường gửi dữ  liệu vào một bản in của một hợp đồng. Dựa vào sự thực thi của công nghệ blockchain mà bạn sử dụng, nó cũng sẽ thực thi gửi tiền mã hóa từ tài khoản này sang tài khoản khác. Những giao dịch được tạo ra thì sẽ được gửi đến một mạng lưới mạng ngang hàng (peer to peer) lớn của những máy tính. Chúng thường được phân tán ra toàn thế giới. Mỗi máy tính trong mạng lưới được gọi là một <b>Node</b> và chúng đều có bản sao chép của những dữ liệu đã tồn tại. Sau đó những giao dịch sẽ được thực thi và xác thực dựa vào những hợp đồng đã được chia sẻ và những đoạn mã. Điều này đảm bảo việc toàn bộ quá trình các Node thực thi sẽ sử dụng chung một bộ quy tắc. Khi một giao dịch được thực thi, kết quả sẽ được thêm vào blockchain. Và khi thực thi xong trên mỗi Node, bạn sẽ phải dàn xếp tất cả các Node trong chuỗi để dàn xếp các vụ giao dịch</p>
+
+<p>Khi thực thi một giao dịch với blockchain, có một số điều rất cần thiết cho nó để có các đặc tính mà chúng ta đã đề cập trước đó</p>
